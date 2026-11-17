@@ -1,2 +1,2 @@
-# Aplicație C# pentru gestionarea admiterii la facultate
-Aplicație desktop pentru gestionarea procesului de admitere la facultate, dezvoltată în C# cu Windows Forms, .NET Framework 4.8 și SQL Server LocalDB. Aplicația permite administrarea candidaților, facultăților și dosarelor de admitere prin operații CRUD, calculează media ponderatăși afișează candidații admiși în funcție de numărul de locuri disponibile.
+# C# Application for University Admission Management
+Desktop application for managing the university admission process, developed in C# using Windows Forms, .NET Framework 4.8, and SQL Server LocalDB. The application allows users to manage candidates, faculties, and admission files through CRUD operations, calculates weighted admission averages, and displays admitted candidates based on the number of available places.
